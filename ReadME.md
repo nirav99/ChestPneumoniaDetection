@@ -1,5 +1,5 @@
-Pneumonia detection using chest X-rays
-======================================
+Classifying chest X-ray images into Normal and Pneumonia
+========================================================
 
 Given a set of chest X-rays for normal and pneumonia cases, develop a CNN to classify these images into normal and pneumonia cases.
 
